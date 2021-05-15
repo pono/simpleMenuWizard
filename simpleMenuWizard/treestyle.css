@@ -1,0 +1,12 @@
+
+*[id^="treestyletab_piro_sakura_ne_jp-menuitem-_context_newTab"],
+*[id^="treestyletab_piro_sakura_ne_jp-menuitem-_context_reloadTab"],
+*[id^="treestyletab_piro_sakura_ne_jp-menuitem-_context_separator:afternewTab"],
+*[id^="treestyletab_piro_sakura_ne_jp-menuitem-_context_duplicateTab"],
+*[id^="treestyletab_piro_sakura_ne_jp-menuitem-_context_separator:afterDuplicate"],
+*[id^="treestyletab_piro_sakura_ne_jp-menuitem-_context_bookmarkTab"],
+*[id^="treestyletab_piro_sakura_ne_jp-menuitem-_context_moveTab"],
+*[id^="treestyletab_piro_sakura_ne_jp-menuitem-_context_selectAllTabs"],
+*[id^="treestyletab_piro_sakura_ne_jp-menuitem-_context_closeTabsToTheEnd"],
+*[id^="treestyletab_piro_sakura_ne_jp-menuitem-_context_closeOtherTabs"] {
+  display: none;
